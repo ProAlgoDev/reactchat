@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/207.670c77b4.chunk.js","mappings":"0JAEA,MAKA,EALgBA,KACPC,EAAAA,EAAAA,KAAAC,EAAAA,SAAA,CAAAC,SAAE,O","sources":["pages/Page404.js"],"sourcesContent":["import React from \"react\";\n\nconst Page404 = () => {\n  return <>404</>;\n};\n\n\nexport default Page404;"],"names":["Page404","_jsx","_Fragment","children"],"sourceRoot":""}
